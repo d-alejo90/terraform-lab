@@ -1,0 +1,3 @@
+access_key = "value"
+secret_key = "value"
+service_names = ["service_1", "service_2", "service_3"]
