@@ -20,3 +20,11 @@ Terraform es una herramienta de infraestructura como código (IaC) desarrollada 
 - **Inmutabilidad:** Fomenta el uso de infraestructura inmutable, donde los cambios se implementan creando nuevos recursos en lugar de modificar los existentes.
 
 - **Comunidad y Ecosistema:** Cuenta con un amplio ecosistema de proveedores y módulos creados por la comunidad, lo que facilita la integración con diversas herramientas y servicios.
+
+## Comandos de Terraform
+
+- `terraform init` Inicializa un directotio de trabajo.
+- `terraform plan` Genera el plan de Ejecución.
+- `terraform apply` Aplica los cambios definidos en la IaC.
+- `terraform destroy` Elimina los recursos creados por la IaC.
+
